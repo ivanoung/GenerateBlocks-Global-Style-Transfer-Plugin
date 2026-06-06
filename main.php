@@ -12,6 +12,7 @@
  *   - Status: Shows current Global Style count
  *
  * @package gb-converter
+ * Author: Ivan Oung
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
